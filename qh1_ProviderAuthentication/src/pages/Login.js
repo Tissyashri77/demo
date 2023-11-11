@@ -1,6 +1,6 @@
 import React from "react";
 import { useAuth } from "../common/context";
-import QHLogo from "../../src/assets/quantumhunts_logo.jpeg";
+import QHLogo from "../assets/quantumhunts_logo.jpeg";
 import "./styles/login.css";
 import {FacebookLoginButton,GoogleLoginButton} from 'react-social-login-buttons'
 
