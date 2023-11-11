@@ -1,0 +1,17 @@
+.profile_hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile_img{
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+.profile_hero h3{
+    font-size: 20px;
+    font-weight: 900;
+    color: #435585;
+}
