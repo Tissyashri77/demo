@@ -5,3 +5,13 @@
   align-items: center;
   justify-content: center;
 }
+
+.form{
+  width: 50%;
+}
+
+@media only screen and (max-width:800px){
+  .form{
+    width: 80% !important;
+  }
+}

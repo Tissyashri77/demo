@@ -34,7 +34,7 @@ const Contact = () => {
     <section className="contact_form">
       <div className='container flex-column d-flex align-items-center justify-content-center'>
         <h1>Contact</h1>
-        <Form onSubmit={handleSubmit} className="w-50">
+        <Form onSubmit={handleSubmit} className="form">
           <Form.Group controlId="formName" className='mt-3'>
             <Form.Label>Name</Form.Label>
             <Form.Control
