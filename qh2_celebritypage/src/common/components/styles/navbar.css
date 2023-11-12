@@ -1,0 +1,12 @@
+.links{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+.links a, .links p{
+    text-decoration: none;
+    color: #363062;
+    font-weight: 500;
+    cursor: pointer;
+}

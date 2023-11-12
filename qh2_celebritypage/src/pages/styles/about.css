@@ -1,0 +1,52 @@
+
+.app_hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+    
+  }
+  
+  .app_container{
+    width: 80%;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  .app_left, .app_right{
+    width: 50%;
+    height: 100%;
+  }
+  
+  
+  .sam{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+
+@media only screen and (max-width:800px){
+  .app_hero{
+    height: auto !important;
+  }
+  .app_container{
+    flex-direction: column;
+    height: auto;
+  }
+
+  .app_left,.app_right{
+    width: 100%;
+  }
+
+  .app_left{
+    height: 50% !important;
+    margin-top: 50px;
+    gap: 20px;
+  }
+}

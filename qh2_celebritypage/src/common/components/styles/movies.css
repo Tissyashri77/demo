@@ -1,0 +1,13 @@
+.all_movies {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    width: 80%;
+    overflow-x: scroll;
+    gap: 10px;
+    bottom: 50px;
+  }
+
+.all_movies::-webkit-scrollbar{
+    display: none;
+}
