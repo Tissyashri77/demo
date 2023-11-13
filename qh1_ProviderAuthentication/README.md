@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-11-13 at 8 29 06 AM" src="https://github.com/Tissyashri77/qhtasks/assets/94794401/28770593-44b7-4784-bdfc-7132836160e0"># Firebase Authentication with Google and Facebook Providers
+# Firebase Authentication with Google and Facebook Providers
 
 This project demonstrates user authentication using Google and Facebook providers with the help of Firebase. It allows users to sign in using their Google or Facebook accounts and manages authentication securely.
 
