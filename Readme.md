@@ -14,7 +14,7 @@ In this folder, I have implemented authentication using Google and Facebook prov
 This folder showcases a responsive celebrity page for one of my favorite personalities, Alya Bhat. The page is built using Bootstrap and deployed on Vercel.
 
 ### Live Link
-[Live Link to qh2_celebritypage](https://qhtasks-gu42-e4gkxmgfo-tissyashri77.vercel.app/)
+[Live Link to qh2_celebritypage](https://qhtasks-gu42.vercel.app/)
 
 ## 3. qh3_surveypage
 
